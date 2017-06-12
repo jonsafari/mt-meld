@@ -25,7 +25,7 @@ Argument is the target language code
 ``` --del_bpe ```
 
 ### Truecase Outputs
-``` --truecase truecase_model.txt ```
+``` --truecase target_truecase_model.txt ```
 
 ### Detokenize
 ``` --detok en ```
