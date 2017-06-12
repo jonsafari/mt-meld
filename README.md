@@ -1,7 +1,7 @@
 # MT-Meld
 Collocates multiple machine translation outputs for qualitative analysis
 
-## Example Usage
+## Basic Usage
 ```
 python3 mt_meld.py --src source.txt --ref reference.txt --hyps opennmt.out nematus.out fairseq.out
 
