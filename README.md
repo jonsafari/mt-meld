@@ -1,5 +1,5 @@
 # MT-Meld
-Collocates multiple machine translation outputs for qualitative analysis
+Collocates multiple machine translation outputs for qualitative analysis.  There's a lot of additional flags to make life easier.
 
 ## Basic Usage
 ```
@@ -25,7 +25,7 @@ Argument is the target language code
 ``` --del_bpe ```
 
 ### Truecase Outputs
-``` --truecase truecase_model.txt ```
+``` --truecase target_truecase_model.txt ```
 
 ### Detokenize
 ``` --detok en ```
