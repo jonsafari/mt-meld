@@ -1,5 +1,5 @@
 # MT-Meld
-Collocates multiple machine translation outputs for qualitative analysis
+Collocates multiple machine translation outputs for qualitative analysis.  There's a lot of additional flags to make life easier.
 
 ## Example Usage
 ```
